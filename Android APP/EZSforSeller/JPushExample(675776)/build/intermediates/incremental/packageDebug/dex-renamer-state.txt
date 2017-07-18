@@ -1,0 +1,7 @@
+#Mon Jul 17 16:02:12 CST 2017
+base.0=C\:\\Users\\56987\\AndroidStudioProjects\\EZSforSeller\\JPushExample(675776)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_863d94a546801728c4f862fc0a8890f852571b2b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\56987\\AndroidStudioProjects\\EZSforSeller\\JPushExample(675776)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d04f1d95fd1a52c2c84e9abcfe52cecaa3e15df1\\classes.dex
+base.1=C\:\\Users\\56987\\AndroidStudioProjects\\EZSforSeller\\JPushExample(675776)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d04f1d95fd1a52c2c84e9abcfe52cecaa3e15df1
+file.0=C\:\\Users\\56987\\AndroidStudioProjects\\EZSforSeller\\JPushExample(675776)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_863d94a546801728c4f862fc0a8890f852571b2b\\classes.dex

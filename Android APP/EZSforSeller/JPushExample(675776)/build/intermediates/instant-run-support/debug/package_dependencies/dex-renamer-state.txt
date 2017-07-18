@@ -1,0 +1,7 @@
+#Mon Jul 17 16:02:09 CST 2017
+base.0=C\:\\Users\\56987\\AndroidStudioProjects\\EZSforSeller\\JPushExample(675776)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jpush-android-3.0.7_a6d836e357c047f3bce83b4e3dc5b9fbcc0162e5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\56987\\AndroidStudioProjects\\EZSforSeller\\JPushExample(675776)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jcore-android-1.1.5_6fd9c5c7f0338b54185486cea48375996d784226\\classes.dex
+base.1=C\:\\Users\\56987\\AndroidStudioProjects\\EZSforSeller\\JPushExample(675776)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jcore-android-1.1.5_6fd9c5c7f0338b54185486cea48375996d784226
+file.0=C\:\\Users\\56987\\AndroidStudioProjects\\EZSforSeller\\JPushExample(675776)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jpush-android-3.0.7_a6d836e357c047f3bce83b4e3dc5b9fbcc0162e5\\classes.dex
